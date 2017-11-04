@@ -4,4 +4,5 @@
   1. 更新D, 最小化GAN loss
   2. 更新Q,G,最小化x_rec z_rec,kl_loss 
   3. 更新G, 最小化GAN loss
+  通过训练过程中重构误差和分布误差的减小，将x_real和z_real两空间捏合到一起。也通过重构误差的逐渐减小，将远离的gan loss拉回到正常范围。
 - wgan-gp 似乎更稳定。learning rate 不能太大，一般为1e-4,适用于D和G。gradient penalty 可用离散梯度替代。训练效果更加刚性，由大结构变为细粒度的小结构。噪点少。
