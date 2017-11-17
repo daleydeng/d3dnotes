@@ -1,8 +1,10 @@
 #!/usr/bin/env python
 from os import system
 
-# another account
-# addr: ss://FYqMWXjDJTEZ@{hk1,us2,jp1}-sta71.s666n.pw:41650
+# addresses
+#   ss://FYqMWXjDJTEZ@{hk1,us2,jp1}-sta71.s666n.pw:41650
+#   ss://u6tFhWSbN2k9@{hk1,jp1,us1,us2}-sta13.3fufr.pw:22212
+
 port = 22212
 password = "u6tFhWSbN2k9"
 servers = [
