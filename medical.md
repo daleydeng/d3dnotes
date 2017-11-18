@@ -1,5 +1,5 @@
 - softwares
-  - paraview, Slicer, itksnap
+  - [paraview](https://github.com/Kitware/ParaView.git), [Slicer](https://www.slicer.org/), [itksnap](http://www.itksnap.org/pmwiki/pmwiki.php)
   - [vtk](https://github.com/Kitware/VTK), [itk](https://github.com/InsightSoftwareConsortium/ITK), [tubetk](https://github.com/KitwareMedical/ITKTubeTK), [SimpleITK](https://github.com/SimpleITK/SimpleITK), [SimpleElastix](https://github.com/SuperElastix/SimpleElastix)
   - [ANTsX](https://github.com/ANTsX), [AntsPy](https://github.com/ANTsX/ANTsPy)
   - [deformetrica](http://www.deformetrica.org/), [pyutils](https://github.com/Shusil/Deformetrica)
