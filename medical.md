@@ -1,12 +1,13 @@
 - softwares
   - [paraview](https://github.com/Kitware/ParaView.git), [Slicer](https://www.slicer.org/), [itksnap](http://www.itksnap.org/pmwiki/pmwiki.php)
+- libraries
   - [vtk](https://github.com/Kitware/VTK), [itk](https://github.com/InsightSoftwareConsortium/ITK), [tubetk](https://github.com/KitwareMedical/ITKTubeTK), [SimpleITK](https://github.com/SimpleITK/SimpleITK), [SimpleElastix](https://github.com/SuperElastix/SimpleElastix)
   - [ANTsX](https://github.com/ANTsX), [AntsPy](https://github.com/ANTsX/ANTsPy),[doc](https://sourceforge.net/projects/advants/files/Documentation/)
   - [deformetrica](http://www.deformetrica.org/), [pyutils](https://github.com/Shusil/Deformetrica)
   - [statismo](https://github.com/statismo/statismo)
   - [medpy](https://github.com/loli/medpy)
   - [DLTK](https://github.com/DLTK/DLTK)
-- resources
+- graphics
   - skinning: [siggraph tutor](http://www.skinning.org/); [Dual Quaternions skinning](http://rodolphe-vaillant.fr/?e=29)
   - [libigl](http://libigl.github.io/libigl/tutorial/tutorial.html)
 - deeplearning
