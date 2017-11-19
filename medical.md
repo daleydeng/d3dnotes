@@ -14,3 +14,5 @@
   - [sparseconvnet](https://github.com/facebookresearch/SparseConvNet)
   - [vnet](https://github.com/mattmacy/vnet.pytorch),[another implement](https://github.com/zengyu714/segmentation-pytorch)
   - [3DUnet](https://github.com/ellisdg/3DUnetCNN.git)
+- papers
+  - [Fast Predictive Simple Geodesic Regression](https://arxiv.org/pdf/1711.05766.pdf)
