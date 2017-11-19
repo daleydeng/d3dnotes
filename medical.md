@@ -1,7 +1,10 @@
 - softwares
   - [paraview](https://github.com/Kitware/ParaView.git), [Slicer](https://www.slicer.org/), [itksnap](http://www.itksnap.org/pmwiki/pmwiki.php)
 - libraries
-  - [vtk](https://github.com/Kitware/VTK), [itk](https://github.com/InsightSoftwareConsortium/ITK), [tubetk](https://github.com/KitwareMedical/ITKTubeTK), [SimpleITK](https://github.com/SimpleITK/SimpleITK), [SimpleElastix](https://github.com/SuperElastix/SimpleElastix)
+  - [vtk](https://github.com/Kitware/VTK), 
+  - [itk](https://github.com/InsightSoftwareConsortium/ITK), [tubetk](https://github.com/KitwareMedical/ITKTubeTK), 
+  - [SimpleITK](https://github.com/SimpleITK/SimpleITK), [micai15 tutor](https://github.com/InsightSoftwareConsortium/SimpleITKTutorialMICCAI2015), [spie16 tutor](https://github.com/InsightSoftwareConsortium/SimpleITKTutorialSPIE2016)
+  - [SimpleElastix](https://github.com/SuperElastix/SimpleElastix)
   - [ANTsX](https://github.com/ANTsX), [AntsPy](https://github.com/ANTsX/ANTsPy),[doc](https://sourceforge.net/projects/advants/files/Documentation/)
   - [deformetrica](http://www.deformetrica.org/), [pyutils](https://github.com/Shusil/Deformetrica)
   - [statismo](https://github.com/statismo/statismo)
